@@ -14,7 +14,7 @@ from calendar import monthrange
 
 # ===== Настройка бота =====
 logging.basicConfig(level=logging.INFO)
-bot = Bot(token="7575468144:AAGKSroDpaRj5-ybUPLYcuPIRviM1P2P58M")
+bot = Bot(token="BOT_TOKEN")
 dp = Dispatcher()
 
 # ===== Списки предметов и типов событий =====
